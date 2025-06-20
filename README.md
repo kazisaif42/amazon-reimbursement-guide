@@ -1,4 +1,4 @@
-# amazon-reimbursement-guide
+# Amazon Reimbursement Guide
 
 As an Amazon seller, you have multiple opportunities to file for reimbursement from Amazon, particularly for issues related to Fulfillment by Amazon (FBA). These claims generally stem from inventory problems, shipping discrepancies, customer returns, or Amazon's internal errors and system glitches. Regularly auditing your account and transactions is crucial to recover lost revenue efficiently.
 
